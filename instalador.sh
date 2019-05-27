@@ -3,8 +3,6 @@ echo " "
 echo " "
 echo "Bem Vindos Ao instalador da MicroBitcoin Miner by Maxxor!"
 echo "Esse Script Vai Ajudar Voce."
-echo " "
-echo " "
 echo "Vamos Começar?"
 sudo su
 sudo apt-get update
